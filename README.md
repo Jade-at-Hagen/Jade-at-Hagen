@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jade, a talent partner at a recruitment consultancy
-- 👀 I’m interested in .NET and C# developers
+- 👋 Hi, I’m Jade, IT Talent consultant
+- 👀 I’m interested mostly in .NET and C# developers
 - 🌱 I’m currently learning how to use Github
 - 💞️ I’m looking for the right people to fill the right positions
 - 📫 How to reach me: jade@hagenhc.com
